@@ -1,0 +1,7 @@
+.textDescription{
+    margin-bottom: 40px;
+    margin-top: 3px;
+    display: flex;
+    justify-content: end;
+    color: grey;
+}
